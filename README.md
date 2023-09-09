@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adrianpush
-- 👀 I’m interested in Web Developement
+- 👋 Hi, I’m @Adrian
+- 👀 I’m interested in Java Developement
 - 🌱 I’m currently learning Python & Django
-- 💞️ I’m looking to collaborate on learning projects
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me adrian.puscu@gmail.com
 
 <!---
