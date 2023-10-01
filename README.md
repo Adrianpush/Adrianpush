@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adrian
 - 👀 I’m interested in Java Developement
-- 🌱 I’m currently learning Python & Django
+- 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me adrian.puscu@gmail.com
 
