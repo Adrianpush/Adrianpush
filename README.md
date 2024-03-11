@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Adrian
-- 👀 I’m interested in Java Developement
-- 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to collaborate.
-- 📫 How to reach me adrian.puscu@gmail.com
+Hi there, I'm Adrian! 👋
 
-<!---
-Adrianpush/Adrianpush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Java Developer with a focus on creating robust applications. Here's a bit about me:
+
+    👀 I'm interested in Java Development, especially building scalable applications.
+    🌱 Proficient in Spring Boot and Kafka, I love exploring new technologies.
+    ☕ Oracle Certified Associate Java SE 8 & Oracle Certified Professional Java SE 8.
+    💼 Open to collaboration on interesting projects.
+    📫 You can reach me at: adrian.puscu@gmail.com
+
+Let's connect and build something amazing together! 🚀
